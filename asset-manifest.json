@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/React-Emp-APP/static/css/main.b36bfb90.css",
-    "main.js": "/React-Emp-APP/static/js/main.92d9a0ab.js",
+    "main.js": "/React-Emp-APP/static/js/main.95ab08aa.js",
     "static/js/787.878bc166.chunk.js": "/React-Emp-APP/static/js/787.878bc166.chunk.js",
     "index.html": "/React-Emp-APP/index.html",
     "main.b36bfb90.css.map": "/React-Emp-APP/static/css/main.b36bfb90.css.map",
-    "main.92d9a0ab.js.map": "/React-Emp-APP/static/js/main.92d9a0ab.js.map",
+    "main.95ab08aa.js.map": "/React-Emp-APP/static/js/main.95ab08aa.js.map",
     "787.878bc166.chunk.js.map": "/React-Emp-APP/static/js/787.878bc166.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b36bfb90.css",
-    "static/js/main.92d9a0ab.js"
+    "static/js/main.95ab08aa.js"
   ]
 }
